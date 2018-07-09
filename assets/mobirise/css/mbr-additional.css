@@ -420,15 +420,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-1 .navbar-toggler {
-  color: #ffffff;
+  color: #28324e;
 }
 #ext_menu-1 .close-icon::before,
 #ext_menu-1 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #28324e;
 }
 #ext_menu-1 .link,
 #ext_menu-1 .dropdown-item {
-  color: #ffffff;
+  color: #28324e;
 }
 #ext_menu-1 .link {
   font-size: 0.75rem;
@@ -460,7 +460,7 @@ h6,
   background: #ffffff;
 }
 #ext_menu-1 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #28324e;
   transition: none;
 }
 #ext_menu-1 .bg-color.transparent.opened .link {
