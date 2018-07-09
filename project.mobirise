@@ -53,7 +53,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">REGISTRATION</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">PROGRAMME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABSTRACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">REGISTRATION</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -121,7 +121,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INNN COLLABORATION - PARTNERSHIP IN GLOBAL </a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INNN PARTNERSHIP IN GLOBAL </a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1"
         },
@@ -160,7 +160,7 @@
                 "title": "ORGANIZERS",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "National Institutes of Health (USA)<br>Instituto Nacional de Neurología y Neurocirugía “Manuel Velazco S”&nbsp;(MEXICO)",
+                "text": "National Institutes of Health (USA)<br>Instituto Nacional de Neurología y Neurocirugía “Manuel Velazco S”&nbsp;(MEXICO)<br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -174,7 +174,7 @@
                 "title": "SPONSORS",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Local Agencies interested in providing funds for medical research in Mexico.",
+                "text": "Local Agencies interested in providing funds for medical research in Mexico.<br><span style=\"font-style: normal;\">*Please contact us in case you would like to sponsor our Conference. Use the form on the CONTACT page.</span>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.conacyt.gob.mx\" data-toolbar=\"-mbrBtnMove\">CONACYT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">CIVIL ASSOCIATIONS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.incan.salud.gob.mx\" data-toolbar=\"-mbrBtnMove\">INCAN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://www.amlcc.org\" data-toolbar=\"-mbrBtnMove\">FOUNDATIONS</a> "
               }
             ]
@@ -187,10 +187,15 @@
           "_anchor": "slider-2",
           "_styles": {
             "H2": {
-              "font-size": "60px"
+              "font-size": "48px"
             },
             "P": {
               "font-size": "20px"
+            },
+            "SPAN": {
+              "font-size": "16px",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
             }
           }
         }
