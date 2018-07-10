@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 19,
+    "uniqCompNum": 22,
     "versionPublish": "4.7.6",
     "favicon": "",
     "noImageResize": ""
@@ -492,63 +492,13 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><b>INNN Team&nbsp;</b></p><p><b><br></b><b>Dr. Agnes Fleury</b> is a worldwide expert on Neuro-Infectious diseases with particular emphasis to Neuro-Cisticercosis. Trained as a Physician and Neurologist at the University in France and then specialized on Neuro-infectious diseases TB/ Neuro-cisticercosis / Neurological HIV with an emphasis on the immune modulation of these diseases.</p><p>She and her team&nbsp;<span style=\"font-size: 1.07rem;\">has leaded frontline therapy trials for treatment of this neglected disease in Mexico and Latin-American countries&nbsp;</span><span style=\"font-size: 1.07rem;\">including Brazil and Peru. She has developed several models for studying the various forms of NC.&nbsp;</span><span style=\"font-size: 1.07rem;\">Her publications in high impact clinical journals include: New England Journal of Medicine. Currently she heads the Neurocisticercosis unit at INNN where she is developing immunological profile on patients diagnosed with NC that allows to use the immune system to improve therapy for NC.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b>\n\n\n\nDr. Soto</b> is a Neurologist specialized in Infectious diseases in particular HIV, worldwide recognized for the development of the first set of biomarkers for HIV Neurological progression. He established the first biobank of HIV CSF samples in Mexico and collaborates with international consortia in order to develop panels to accurately predict HIV neurological onset. In addition, he has developed several therapies for the treatment of TB granulomas. Dr Soto is the Head of Neuro-Infectious HIV unit at INNN. Dr. Soto list of publications ranks among the top ten at the INNN and is recipient of several international and national grants.\n\n\nDr. Daniel San Juan is Neurologist and Anesthesiologist his research focuses on the  Management of Stroke and Epilepsy, in addition to TBI. His current research interest anti-trombolytic therapy Neurological and Neurosurgical care for the Patient in the ICU. In addition to the implementation of novel protocols for the management of status epilepticus resistant to therapy. Dr San Juan is the Head of the Neuro-ICU at INNN and has mentored a great number of Neurology Residents at the ICU.\n\n\nDr. Juan Barges: is a Spine Neurosurgeon and heads the division of Neurosurgical treatment of Spine Chordomas and Skull base tumors at INNN. Dr. Barges collaborates and supports the Neuroradiology training program along with the Neurosurgery training. Dr. Barges research focuses on novel approaches to resect and treat spinal tumors.\n \nDr. Juan Leyva is the Head of the Clinical research and Regulatory IRB submission within INNN. \n\nDr. Celis: is Neurosurgeon and Neuro-Oncologist, among Dr. Celis contributions to Neuro-Oncology is the implementation of cloroquine for the treatment of brain tumors. His interests focus on Clinical research and development of novel protocols for the treatment and detection for patients diagnosed with brain tumors. Dr. Celis is one of the few experts in Radiosurgery for the treatment of gliomas and brain metastasis in Mexico. Dr. Celis is the Director of the INNN and he currently focuses on the development of correlative studies on Clinical trials treated with Cloroquine on patients diagnosed with IDH1 mutant glioma. \n\n\nDr. Greg Riggins is a Professor of Neurosurgery and Neuro-Oncology at Johns Hopkins, he has developed numerous therapies for brain tumors that are currently on Phase I trials. Neuro-Oncology, development of repurposed therapies for brain tumors including glioblastoma, recurring medulloblastoma and brain metastasis. Dr. Riggins has over 200 publications and has been recipient of numerous and prestigious grants from NIH and Foundations.\nAmong his important and world-renowned contributions are the identification of target therapies for glioblastoma harboring IDH1 mutation using novel small molecules. Preclinical validation and translational into clinical trials, so far Dr. Riggins has developed two drugs for glioma in clinical trials. Mebendazole and PAC-1 for Phase 1 and Phase 2 clinical trials respectively. Dr. Riggins team was first to   identified IDH1 and OTX, key genetic mutations in glioma and medulloblastoma critical for progression and treatment outcome.\nHis mainstay interest has been to develop repurpose therapies that can be used for patients who have limited access to chemotherapy in low income settings. Dr. Riggins has been recognized for his humanitarian talents and has been recognized for his mentorship and scientific accolades at Johns Hopkins. He is currently the Director of Research at the Neurosurgery Department.\n\nDr. Nicholas Theodore\n\n\nDra Lucia Rivera\n\nDr. Ricardo Carhuapoma</span></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-g",
-          "_styles": {
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            },
-            ".mbr-section-title": {
-              "font-size": "24px"
-            },
-            ".mbr-section-subtitle SPAN": {
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Title with Solid Background Color",
-          "meta": "<span style=\"font-style: normal;\">By John Smith posted July 20, 2016</span>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-h"
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
             "showBullets": true,
             "fullWidth": true,
-            "spacing": 0,
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "spacing": "0",
+            "paddingTop": "3",
+            "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "fff",
+            "bgColor": "#FFFFFF",
             "showText": false,
             "filter": false,
             "images": [
@@ -557,99 +507,126 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dr-juancapahuoma-1-1177x1570.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dr-juancapahuoma-1-1177x1570-800x933.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dr-soto1-2-1177x1570.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dr-soto1-2-1177x1570-800x927.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/drgreg-4-1177x1570.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/drgreg-4-1177x1570-800x935.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/drtheodore-2-1177x1570.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/drtheodore-2-1177x1570-800x936.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/drbarges-2-1177x1570.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/drbarges-2-1177x1570-800x907.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/table.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dralucia-3-1177x1570.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dralucia-3-1177x1570-800x961.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dr-sanjuan1-2-1177x1570.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dr-sanjuan1-2-1177x1570-800x866.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dra-agnes1-2-1177x1570.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dra-agnes1-2-1177x1570-800x1003.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
+          "articleLayout": false,
+          "allItem": "All",
           "_tags": [
             "Theme"
           ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery2",
-          "_anchor": "gallery2-i"
+          "_name": "gallery1",
+          "_anchor": "gallery1-l"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b style=\"font-size: 1.07rem;\">INNN Team&nbsp;</b><br></p><p><b><br></b><b>Dr. Agnes Fleury</b> is a worldwide expert on Neuro-Infectious diseases with particular emphasis to Neuro-Cisticercosis. </p><p>Trained as a Physician and Neurologist at the University in France and then specialized on Neuro-infectious diseases TB/ Neuro-cisticercosis / Neurological HIV with an emphasis on the immune modulation of these diseases.&nbsp;<span style=\"font-size: 1.07rem;\">Her team&nbsp;</span><span style=\"font-size: 1.07rem;\">has leaded frontline therapy trials for treatment of this neglected disease in Mexico and Latin-American countries&nbsp;</span><span style=\"font-size: 1.07rem;\">including Brazil and Peru. She has developed several models for studying the various forms of NC.&nbsp;</span><span style=\"font-size: 1.07rem;\">Her publications in high impact clinical journals include: New England Journal of Medicine. Currently she heads the Neurocisticercosis unit at INNN where she is developing immunological profile on patients diagnosed with NC that allows to use the immune system to improve therapy for NC.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b>\n\n\n\nDr. Soto</b> is a Neurologist specialized in Infectious diseases in particular HIV, worldwide recognized for the development of the first set of biomarkers for HIV Neurological progression. He established the first biobank of HIV CSF samples in Mexico and collaborates with international consortia in order to develop panels to accurately predict HIV neurological onset. In addition, he has developed several therapies for the treatment of TB granulomas. He is the head of Neuro-Infectious HIV unit at INNN. His publications rank among the top ten at the INNN and is recipient of several international and national grants.\n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b>\n\nDr. Daniel San Juan</b> is Neurologist and Anesthesiologist his research focuses on the  Management of Stroke and Epilepsy, in addition to TBI. His current research interest anti-trombolytic therapy Neurological and Neurosurgical care for the Patient in the ICU. In addition to the implementation of novel protocols for the management of status epilepticus resistant to therapy. Currently he is the head of the Neuro-ICU at INNN and has mentored a great number of Neurology Residents at the ICU.\n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b>Dr. Juan Barges Coll&nbsp;</b>is a Spine Neurosurgeon and leads the division of Neurosurgical treatment of Spine Chordomas and Skull base tumors at INNN. He collaborates and supports the Neuroradiology training programm along with the Neurosurgery training. D research focuses on novel approaches to resect and treat spinal tumors.\n \nDr. Juan Leyva is the Head of the Clinical research and Regulatory IRB submission within INNN. </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b>Dr. Miguel Ángel Célis López</b> is Neurosurgeon and Neuro-Oncologist, among his contributions to Neuro-Oncology is the implementation of cloroquine for the treatment of brain tumors. His interests focus on clinical research and development of novel protocols for the treatment and detection for patients diagnosed with brain tumors. He is one of the few experts in Radiosurgery for the treatment of gliomas and brain metastasis in Mexico. Currently he is the Director of the INNN and focuses on the development of correlative studies on Clinical trials treated with Cloroquine on patients diagnosed with IDH1 mutant glioma. </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b>\n\n\nDr. Gregory Riggins</b> is a Professor of Neurosurgery and Neuro-Oncology at Johns Hopkins, he has developed numerous therapies for brain tumors that are currently on Phase I trials. Neuro-Oncology, development of repurposed therapies for brain tumors including glioblastoma, recurring medulloblastoma and brain metastasis. Dr. Riggins has over 200 publications and has been recipient of numerous and prestigious grants from NIH and Foundations.\nAmong his important and world-renowned contributions are the identification of target therapies for glioblastoma harboring IDH1 mutation using novel small molecules. Preclinical validation and translational into clinical trials, so far Dr. Riggins has developed two drugs for glioma in clinical trials. Mebendazole and PAC-1 for Phase 1 and Phase 2 clinical trials respectively. Dr. Riggins team was first to   identified IDH1 and OTX, key genetic mutations in glioma and medulloblastoma critical for progression and treatment outcome.\nHis mainstay interest has been to develop repurpose therapies that can be used for patients who have limited access to chemotherapy in low income settings. Dr. Riggins has been recognized for his humanitarian talents and has been recognized for his mentorship and scientific accolades at Johns Hopkins. He is currently the Director of Research at the Neurosurgery Department.\n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b>\nDr. Nicholas Theodore\n</b></span></p><p><span style=\"font-size: 1.07rem;\"><b><br></b></span></p><p><span style=\"font-size: 1.07rem;\"><b>\n\nDr. Lucia Rivera\n</b></span></p><p><span style=\"font-size: 1.07rem;\"><b><br></b></span></p><p><span style=\"font-size: 1.07rem;\"><b>\nDr. Ricardo Carhuapoma</b></span></p><p><span style=\"font-size: 1.07rem;\"><b><br></b></span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-g",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "18px"
+            }
+          }
         }
       ]
     },
